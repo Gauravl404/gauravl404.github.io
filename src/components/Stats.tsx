@@ -83,7 +83,7 @@ const Stats = () => {
   const stats = [
     { icon: Code, value: 4, label: "Years Experience", suffix: "+" },
     { icon: GitBranch, value: 20, label: "Projects Deployed", suffix: "+" },
-    { icon: Users, value: 15, label: "Clients Served", suffix: "+" },
+    { icon: Users, value: 5, label: "Clients Served", suffix: "+" },
     { icon: Award, value: 10, label: "Technologies Mastered", suffix: "+" },
   ];
 
